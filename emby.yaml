@@ -15,6 +15,7 @@ payload:
   - DOMAIN,pub2cf.emby.wtf
   - DOMAIN,pub3.emby.wtf
   - DOMAIN,pub3cf.emby.wtf
+  - DOMAIN,aga.somii.cf
 #emby-jmsooo体验服
   - DOMAIN,agahk1.jmsooo.com
   - DOMAIN,agasg1.jmsooo.com
