@@ -7,25 +7,17 @@ payload:
   - DOMAIN,movie.xeton.dev
   - DOMAIN,servers.xeton.dev
 #emby-Otaku体验服
-  - DOMAIN,emby.ok.edu.hk
-  - DOMAIN,emby.neko.edu.rs 
-  - DOMAIN,pub1.emby.wtf
-  - DOMAIN,pub1cf.emby.wtf
-  - DOMAIN,pub2.emby.wtf
-  - DOMAIN,pub2cf.emby.wtf
-  - DOMAIN,pub3.emby.wtf
-  - DOMAIN,pub3cf.emby.wtf
+  - DOMAIN,emby.otakudrive.life
   - DOMAIN,aga.somii.cf
 #emby-jmsooo体验服
   - DOMAIN,agahk1.jmsooo.com
   - DOMAIN,agasg1.jmsooo.com
   - DOMAIN,agajp1.jmsooo.com
   - DOMAIN,aws.jmsooo.com
-  - DOMAIN,ntt1.jmsooo.com
-  - DOMAIN,hinet.jmsooo.com
   - DOMAIN,cf1.jmsooo.com
-#流媒体pornemby服务器
-  - DOMAIN,aga.pornemby.club
 #prpr
   - DOMAIN,emby.prprcloud.com
+#ImmTelecom
+  - DOMAIN,emby.immtel.com
+
 
