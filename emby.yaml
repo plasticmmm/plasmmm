@@ -19,5 +19,7 @@ payload:
   - DOMAIN,emby.prprcloud.com
 #ImmTelecom
   - DOMAIN,emby.immtel.com
+#embypub
+  - DOMAIN-KEYWORD,emby.wtf
 
 
