@@ -8,7 +8,6 @@ proxies:
   - {name: 网易音乐 7, server: block4music.poetyin.me, port: 39000, type: http, tls: false, skip-cert-verify: false}
   - {name: 网易音乐 8, server: salvan.icu, port: 19980, type: http, tls: false, skip-cert-verify: false}
   - {name: 网易音乐 9, server: 1.116.214.16, port: 19980, type: http, tls: false, skip-cert-verify: false}
-  - {name: 网易音乐 10, server: proxy.plusmedia.site, port: 58081, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ}
-  - {name: 网易音乐 11, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
-  - {name: 网易音乐 12, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
-  - {name: 网易音乐 13, server: ts3.plasm.cf, port: 30000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐 10, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 网易音乐 11, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 网易音乐 12, server: ts3.plasm.cf, port: 30000, type: http, tls: false, skip-cert-verify: false}
