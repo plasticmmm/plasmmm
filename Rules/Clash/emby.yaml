@@ -1,3 +1,4 @@
+#https://raw.githubusercontent.com/plasticmmm/plasmmm/main/Rules/Clash/emby.yaml
 payload:
 #emby-Plus体验服
   - DOMAIN,emby.plusmedia.site
