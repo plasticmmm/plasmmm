@@ -1,2 +1,2 @@
 #emby rule
-https://raw.githubusercontent.com/plasticmmm/ruleownuse/main/emby.yaml
+https://raw.githubusercontent.com/plasticmmm/plasmmm/main/Rules/Clash/emby.yaml
