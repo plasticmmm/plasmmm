@@ -1,1 +1,13 @@
-https://raw.githubusercontent.com/plasticmmm/plasmmm/main/unblockmusic.yml
+proxies:
+  - {name: 网易音乐 1, server: 34.92.129.82, port: 2021, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐 2, server: music.lolico.me, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐 3, server: 223.112.128.66, port: 23334, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐 4, server: 106.52.127.72, port: 19951, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐 5, server: gx3dong.top, port: 8088, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐 6, server: music.griouges.cn, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐 7, server: block4music.poetyin.me, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐 8, server: salvan.icu, port: 19980, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐 9, server: 1.116.214.16, port: 19980, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐 10, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 网易音乐 11, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 网易音乐 12, server: ts3.plasm.cf, port: 30001, type: http, tls: false, skip-cert-verify: false}
