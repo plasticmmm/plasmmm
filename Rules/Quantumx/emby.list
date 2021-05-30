@@ -1,0 +1,22 @@
+#emby-Plus体验服
+  - DOMAIN,emby.plusmedia.site
+  - DOMAIN,emby-cf.plusmedia.site 
+  - DOMAIN,emby.xeton.dev
+  - DOMAIN,jellyfin.xeton.dev
+  - DOMAIN,movie.xeton.dev
+  - DOMAIN,servers.xeton.dev
+#emby-Otaku体验服
+  - DOMAIN,emby.otakudrive.life
+  - DOMAIN,aga.somii.cf
+#emby-jmsooo体验服
+  - DOMAIN,agahk1.jmsooo.com
+  - DOMAIN,agasg1.jmsooo.com
+  - DOMAIN,agajp1.jmsooo.com
+  - DOMAIN,aws.jmsooo.com
+  - DOMAIN,cf1.jmsooo.com
+#prpr
+  - DOMAIN,emby.prprcloud.com
+#ImmTelecom
+  - DOMAIN,emby.immtel.com
+#embypub
+  - DOMAIN-KEYWORD,emby.wtf
