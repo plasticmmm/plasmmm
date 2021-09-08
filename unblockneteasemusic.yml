@@ -7,4 +7,4 @@ proxies:
   - {name: 网易音乐 6, server: 1.116.214.16, port: 19980, type: http, tls: false, skip-cert-verify: false}
   - {name: 网易音乐 7, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
   - {name: 网易音乐 8, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
-  - {name: 网易音乐 9, server: www.plasmmm.tk, port: 20000, type: http, tls: false, username: "", password: ""}
+  - {name: 网易音乐 9, server: www.plasmmm.tk, port: 20000, type: http, tls: false}
