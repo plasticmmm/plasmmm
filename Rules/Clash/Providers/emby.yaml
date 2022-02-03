@@ -18,3 +18,5 @@ payload:
   - DOMAIN,emby.immtel.com
 #embypub
   - DOMAIN-KEYWORD,emby.wtf
+#nexitally
+  - DOMAIN,emby.nexitally.com
