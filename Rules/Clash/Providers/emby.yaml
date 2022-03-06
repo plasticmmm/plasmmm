@@ -1,22 +1,24 @@
 #https://raw.githubusercontent.com/plasticmmm/plasmmm/main/Rules/Clash/emby.yaml
 payload:
-#emby-Plus体验服
+  #emby-Plus体验服
   - DOMAIN,emby.plusmedia.site
-  - DOMAIN,emby-cf.plusmedia.site 
+  - DOMAIN,emby-cf.plusmedia.site
   - DOMAIN,emby.xeton.dev
   - DOMAIN,jellyfin.xeton.dev
   - DOMAIN,movie.xeton.dev
   - DOMAIN,servers.xeton.dev
-#emby-Otaku体验服
+  #emby-Otaku体验服
   - DOMAIN,emby.otakudrive.life
   - DOMAIN,aga.somii.cf
-#emby-jmsooo体验服
+  #emby-jmsooo体验服
   - DOMAIN-KEYWORD,jmsooo.com
-#prpr
+  #prpr
   - DOMAIN,emby.prprcloud.com
-#ImmTelecom
+  #ImmTelecom
   - DOMAIN,emby.immtel.com
-#embypub
+  #embypub
   - DOMAIN-KEYWORD,emby.wtf
-#nexitally
+  #nexitally
   - DOMAIN,emby.nexitally.com
+  #emby
+  - DOMAIN-KEYWORD,emby
